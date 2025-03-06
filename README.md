@@ -1,6 +1,8 @@
 # Exercise-04b-TileSets-Levels
-
+2D platformer 03.05.2025
 ## Implementation
+
+Levels and Unique challenges per each level
 
 ## References
 
@@ -9,6 +11,6 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
-
+Enemies and combat?
 ## Created by
-Nathan Mishler
+Josephine Dugger
